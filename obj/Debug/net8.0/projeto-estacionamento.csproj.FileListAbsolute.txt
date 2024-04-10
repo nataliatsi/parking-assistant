@@ -1,0 +1,14 @@
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\bin\Debug\net8.0\projeto-estacionamento.exe
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\bin\Debug\net8.0\projeto-estacionamento.deps.json
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\bin\Debug\net8.0\projeto-estacionamento.runtimeconfig.json
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\bin\Debug\net8.0\projeto-estacionamento.dll
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\bin\Debug\net8.0\projeto-estacionamento.pdb
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.AssemblyInfoInputs.cache
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.AssemblyInfo.cs
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.dll
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\obj\Debug\net8.0\refint\projeto-estacionamento.dll
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.pdb
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.genruntimeconfig.cache
+C:\Users\natal\Documents\digital-innovation-one\bootcamp-dotnet\projeto-estacionamento\obj\Debug\net8.0\ref\projeto-estacionamento.dll
